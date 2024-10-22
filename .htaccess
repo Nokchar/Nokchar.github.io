@@ -1,0 +1,2 @@
+AddEncoding gzip .unityweb
+AddType application/octet-stream .unityweb
